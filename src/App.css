@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+div {
+  border: 1px solid black;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  color: darkCyan;
+}
+
+.filmList {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/12/20/64563b15b6891fe.jpg");
+  color: white;
+}
+
+button {
+  background-color: darkCyan;
+}
+
+p {
+  color: darkCyan;
+}
